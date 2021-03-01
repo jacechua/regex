@@ -1,2 +1,2 @@
 # regex
-Sample use cases for regular expressions, commonly referred to as RegEx.
+Sample code using regular expressions for data wrangling.
