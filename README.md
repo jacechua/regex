@@ -1,2 +1,2 @@
 # regex
-Everything about regular expressions, commonly referred to as RegEx.
+Sample use cases for regular expressions, commonly referred to as RegEx.
